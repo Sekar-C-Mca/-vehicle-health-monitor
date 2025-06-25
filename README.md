@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Vehicle Health Monitor - Frontend Demo
+Vehicle Health Monitor - Frontend Demo
 
 A beautiful, production-ready vehicle health monitoring dashboard built with React, TypeScript, and Tailwind CSS. This is a **frontend-only demo** that uses simulated data and local storage.
 
@@ -141,9 +141,3 @@ This demo could be extended with:
 - Push notifications
 - PWA capabilities
 
-## License
-
-This project is for demonstration purposes.
-=======
-# -vehicle-health-monitor
->>>>>>> 7f489a8a2e6390d884f0195ee3504112a1d9966e
